@@ -1,2 +1,2 @@
 # 2048-implementation-with-C
-This is an implementation of 2048 game written in C.
+This is an implementation of 2048 game written in C, for my University, Basic Programming Course.
